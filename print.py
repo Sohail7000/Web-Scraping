@@ -1,2 +1,3 @@
 N = 10
-for i in range()
+for i in 10:
+    print(i)
